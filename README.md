@@ -55,7 +55,7 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poggufanz&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=poggufanz" alt="GitHub Streak" /></a>
 </div>
 
 ---
