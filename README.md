@@ -27,6 +27,8 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 
 ---
 
+<div align="center">
+
 ### 🛠 **The Arsenal**
 
 <p>I don't rely on a single tool. I adapt. Here is the technology I use to build the future:</p>
