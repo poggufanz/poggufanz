@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Faiq.;Kon'nichiwa,+I'm+Faiq.;Nǐ+hǎo,+I'm+Faiq.;Sampurasun,+I'm+Faiq.;Assalamu'alaikum,+I'm+Faiq." alt="Multilingual Greeting" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Faiq.;Kon'nichiwa,+I'm+Faiq.;Nǐ+hǎo,+I'm+Faiq.;Sampurasun,+I'm+Faiq.;Assalamu'alaikum,+I'm+Faiq." alt="Multilingual Greeting" />
   </a>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0_000000_100_2563eb&height=120&section=footer&animation=fadeIn" alt="Wave Decoration" />
