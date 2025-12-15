@@ -52,14 +52,6 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poggufanz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Langs" />
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=poggufanz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
-
 ---
 
 ### 🤝 **Let's Connect**
