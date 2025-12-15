@@ -47,17 +47,15 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 
 ---
 
-### 📊 **The Metrics**
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xmfaiq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmfaiq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poggufanz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poggufanz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Langs" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmfaiq&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poggufanz&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
 </div>
 
 ---
