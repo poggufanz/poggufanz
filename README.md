@@ -59,7 +59,7 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 
 <div align="center">
 
-  <h3>🛠 Let's Connect</h3>
+  <h3>Let's Connect</h3>
 
   <p>
     <a href="https://x.com/mfanxz">
