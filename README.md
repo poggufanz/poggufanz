@@ -9,7 +9,7 @@
   </h3>
 
   <p align="center">
-    <i>"I don't just build apps. I build tools I actually use."</i>
+    <i>"I don't just build apps. I build apps I actually use."</i>
   </p>
 
 </div>
@@ -55,9 +55,10 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 
 ---
 
-### 🤝 **Let's Connect**
+
 
 <div align="center">
+  ### **Let's Connect**
   <a href="https://x.com/mfanxz">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
