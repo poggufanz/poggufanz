@@ -9,7 +9,7 @@
   </h3>
 
   <p align="center">
-    <i>"Manual coding is good. Orchestrating AI to code for you is evolution."</i>
+    <i>"I don't just build apps. I build tools I actually use."</i>
   </p>
 
 </div>
