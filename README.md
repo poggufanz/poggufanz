@@ -30,7 +30,7 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 
 <div align="center">
 
-###🛠 **Tech Stack & Tools**
+### 🛠 **Tech Stack & Tools**
 
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
