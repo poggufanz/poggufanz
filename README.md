@@ -20,7 +20,7 @@
 
 I'm a **Computer Science Student** and **Software Engineer** based in Indonesia. My workflow is a hybrid of deep analytical thinking (**INTJ-T**) and AI acceleration. I don't just build apps; I build systems that understand human behavior.
 
-- 🔭 I’m currently building **Synapse (FokusKu)** — An AI-powered productivity app that also detects burnout.
+- 🔭 I’m currently building **Synapse (FokusKu)**, An AI-powered productivity app that also detects burnout.
 - 🌱 I’m currently learning **Machine Learning** & **Web3 Development**.
 - ♟️ I treat software engineering like **Chess** and **Gacha Strategy**: High risk, calculated moves, high reward.
 - ⚡ **Fun fact:** My IDE is an AI agent, and yes, I run Arch Linux.
