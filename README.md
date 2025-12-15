@@ -1,10 +1,10 @@
 <div align="center">
   
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Faiq.;こんにちは,+I'm+Faiq.;你好,+I'm+Faiq.;Sampurasun,+I'm+Faiq.;السَّلَامُ+عَلَيْكُمْ,+I'm+Faiq." alt="Multilingual Greeting" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Faiq.;こんにちは,+I'm+Faiq.;你好,+I'm+Faiq.;Hola,+I'm+Faiq.;السَّلَامُ+عَلَيْكُمْ,+I'm+Faiq." alt="Multilingual Greeting" />
   </a>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0_000000_100_2563eb&height=100&section=footer&animation=fadeIn" alt="Wave Decoration" style="margin-top: -30px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0_000000_100_2563eb&height=100&section=footer&animation=fadeIn" alt="Wave Decoration" />
 
   <h3>
     <a href="https://git.io/typing-svg">
