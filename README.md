@@ -29,11 +29,19 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 
 ### 🛠 **The Arsenal**
 
-<div align="center">
+<p>I don't rely on a single tool. I adapt. Here is the technology I use to build the future:</p>
 
-| **Core** | **Frontend** | **AI & Data** | **Web3** | **Tools** |
-| :---: | :---: | :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) <br> ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) | ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) <br> ![Hardhat](https://img.shields.io/badge/Hardhat-FFdb1c?style=for-the-badge&logo=hardhat&logoColor=black) | ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 
 </div>
 
@@ -42,14 +50,14 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 ### 📊 **The Metrics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poggufanz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poggufanz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xmfaiq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmfaiq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Langs" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poggufanz&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmfaiq&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
 </div>
 
 ---
@@ -57,12 +65,20 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 ### 🤝 **Let's Connect**
 
 <div align="center">
-  <a href="https://twitter.com/xmfaiq">
+  <a href="https://x.com/mfanxz">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:contact@faiq.dev"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.linkedin.com/in/muhammad-faiq-1450832ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linkedin.com/in/muhammadfaiq"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://instagram.com/xmfaiq">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/mffaiq12/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:mfaiq1205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
