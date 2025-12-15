@@ -23,7 +23,8 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 - I’m currently learning **Machine Learning** & **Web3 Development**.
 - I treat software engineering like **Chess** and **Gacha Strategy**: High risk, calculated moves, high reward.
 - **Fun fact:** My IDE is an AI agent, and yes, I run Arch Linux.
-- My Hobbies are playing chess, tetris, games, and rubik's. 
+- My Hobbies are playing chess, tetris, games, and rubik's.
+- Jack of all trades guy.
 
 ---
 
