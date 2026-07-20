@@ -47,20 +47,20 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 
 ### 📊 **GitHub Activity**
 
-<img src="https://github-readme-stats.vercel.app/api?username=xmfaiq&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=2563EB&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xmfaiq&hide_border=true&background=0d1117&stroke=3B82F6&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&titleColor=3B82F6" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=poggufanz&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=2563EB&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=poggufanz&hide_border=true&background=0d1117&stroke=3B82F6&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&titleColor=3B82F6" alt="GitHub Streak" height="165" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmfaiq&layout=compact&hide_border=true&count_private=true&title_color=3B82F6&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poggufanz&layout=compact&hide_border=true&count_private=true&title_color=3B82F6&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="165" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=xmfaiq&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=poggufanz&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xmfaiq&bg_color=0d1117&color=3B82F6&line=2563EB&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=poggufanz&bg_color=0d1117&color=3B82F6&line=2563EB&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -75,7 +75,7 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
     <a href="https://www.linkedin.com/in/muhammad-faiq-1450832ab/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://instagram.com/xmfaiq">
+    <a href="https://instagram.com/poggufanz">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="https://facebook.com/mffaiq12/">
@@ -90,5 +90,5 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xmfaiq&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=poggufanz&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
