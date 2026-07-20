@@ -1,23 +1,19 @@
 <div align="center">
   
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0_000000_100_2563eb&height=250&section=header&text=Hello,%20I'm%20Faiq.&fontSize=70&fontColor=ffffff&descSize=20&descAlign=50&animation=fadeIn" alt="Header" />
-
   <h3>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Engineer;Building+Web3;" alt="Typing SVG" />
     </a>
   </h3>
-
   <p align="center">
     <i>"I don't just build apps. I build apps I actually use."</i>
   </p>
-
 </div>
 
 ---
 
 ### 🧐 **About Me**
-
 I'm a **Computer Science Student** and **Software Engineer** based in Indonesia. My workflow is a hybrid of deep analytical thinking and AI acceleration. 
 - I’m currently learning **Machine Learning** & **Web3 Development**.
 - I treat software engineering like **Chess** and **Gacha Strategy**: High risk, calculated moves, high reward.
@@ -47,12 +43,31 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 
 ---
 
-
-
 <div align="center">
 
-  <h3>Let's Connect</h3>
+### 📊 **GitHub Activity**
 
+<img src="https://github-readme-stats.vercel.app/api?username=xmfaiq&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=2563EB&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xmfaiq&hide_border=true&background=0d1117&stroke=3B82F6&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&titleColor=3B82F6" alt="GitHub Streak" height="165" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmfaiq&layout=compact&hide_border=true&count_private=true&title_color=3B82F6&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="165" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=xmfaiq&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xmfaiq&bg_color=0d1117&color=3B82F6&line=2563EB&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+<div align="center">
+  <h3>Let's Connect</h3>
   <p>
     <a href="https://x.com/mfanxz">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -70,7 +85,6 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
-
 </div>
 
 <br>
