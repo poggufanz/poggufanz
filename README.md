@@ -47,16 +47,7 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 
 ### 📊 **GitHub Activity**
 
-<img src="https://github-readme-stats.vercel.app/api?username=poggufanz&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=2563EB&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=poggufanz&hide_border=true&background=0d1117&stroke=3B82F6&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&titleColor=3B82F6" alt="GitHub Streak" height="165" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poggufanz&layout=compact&hide_border=true&count_private=true&title_color=3B82F6&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="165" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=poggufanz&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 <br><br>
 
