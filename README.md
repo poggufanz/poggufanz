@@ -13,7 +13,7 @@
 
 ---
 
-### 🧐 **About Me**
+### **About Me**
 I'm a **Computer Science Student** and **Software Engineer** based in Indonesia. My workflow is a hybrid of deep analytical thinking and AI acceleration. 
 - I’m currently learning **Machine Learning** & **Web3 Development**.
 - I treat software engineering like **Chess** and **Gacha Strategy**: High risk, calculated moves, high reward.
@@ -25,7 +25,7 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 
 <div align="center">
 
-### 🛠 **Tech Stack & Tools**
+### **Tech Stack & Tools**
 
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -45,7 +45,7 @@ I'm a **Computer Science Student** and **Software Engineer** based in Indonesia.
 
 <div align="center">
 
-### 📊 **GitHub Activity**
+### **GitHub Activity**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=poggufanz&hide_border=true&background=0d1117&stroke=3B82F6&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&titleColor=3B82F6" alt="GitHub Streak" height="165" />
 
