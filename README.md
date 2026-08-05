@@ -36,11 +36,7 @@ trait:         "jack of all trades"
 
 <br><br>
 
-<img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=poggufanz&theme=tokyonight&headerStyle=mac&hostname=archlinux" alt="terminal stats" width="100%" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poggufanz&bg_color=0d1117&color=3B82F6&line=2563EB&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://ghchart.rshah.org/2563EB/poggufanz" alt="Contribution Graph" width="100%" />
 
 <br>
 
