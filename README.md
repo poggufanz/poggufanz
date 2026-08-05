@@ -20,17 +20,6 @@ trait:         "jack of all trades"
 
 <div align="center">
 
-### `~/var/log/chess` — live
-
-<!--START_SECTION:chessStats-->
-<!--END_SECTION:chessStats-->
-
-</div>
-
----
-
-<div align="center">
-
 ### `~/usr/bin/stack`
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,py,js,java,rust,solidity,tailwind,laravel,php,nodejs&theme=dark&perline=11" alt="Tech Stack" />
@@ -47,7 +36,7 @@ trait:         "jack of all trades"
 
 <br><br>
 
-<img src="./assets/github_stats.svg" alt="terminal stats" width="100%" />
+<img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=poggufanz&theme=tokyonight&headerStyle=mac&hostname=archlinux" alt="terminal stats" width="100%" />
 
 <br>
 
